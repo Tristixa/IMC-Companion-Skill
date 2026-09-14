@@ -1,0 +1,4 @@
+interface:
+  display_name: "IMC Art Direction"
+  short_description: "Consistent IMC characters, sprites and backgrounds"
+  default_prompt: "Use $imc-art-direction to create the requested IMC asset with its approved identity, visual style and animation requirements."

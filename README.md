@@ -1,6 +1,8 @@
-# IMC Companion Skill
+# IMC Character Companion Skill
 
-This repository contains the IMC (Isekai Mercenary Company) companion skill for Codex. It provides the project's visual direction and production contracts for portraits, gameplay sprites, animations, backgrounds and related review.
+This repository contains the IMC (Isekai Mercenary Company) companion skill for Codex. It provides the project's visual direction and production contracts for characters, portraits, gameplay sprites, animations, monsters and related review. Its invocation remains `$imc-art-direction`.
+
+The separate `$imc-environment-art-direction` skill in `D:/Godot Projects/IMC-Companion-Skill-Environment` covers hunting/battle backgrounds, playable locations such as the Adventurer Office, scenery and maps.
 
 ## Install for Codex
 
